@@ -1,9 +1,9 @@
 {
-    "qrcode": "https://weixin.qq.com/g/AQYAANLJo2p6GVCkavnXQI35rK-jgwKGTAVqHnAHX7PePW0F8hskhrasDT1Ni8Nb",
+    "qrcode": "https://weixin.qq.com/g/AQYAALkWkQgbDWXIp_ltBI7er05zmt0YtkWXVE9PgucS4NEkfofbxGfteJzp6uV8",
     "tgGroup": "https://t.me/choose_funds_chat",
     "qqGroup": "951222618",
     "tip": null,
-    "htmlTip": "<div>插件小程序版“韭菜计算助手”已上线，欢迎使用！</div><div>本插件是一个开源项目，您的支持是我开发的动力，期待5星好评！</div>去商店评价→ <a target='_Blank' href='https://chrome.google.com/webstore/detail/dhdelcemeednchdmijiocipbjlknndff'>chrome商店</a>&nbsp;&nbsp;&nbsp;&nbsp;<a target='_Blank' href='https://microsoftedge.microsoft.com/addons/detail/kophadiajpobbfoobhclbobddkoindoi'>Microsoft Edge商店</a>&nbsp;&nbsp;&nbsp;&nbsp;<a target='_Blank' href='https://addons.mozilla.org/zh-CN/firefox/addon/choose-funds/'>Firefox商店</a>",
+    "htmlTip": "<div>插件小程序版“韭菜计算助手”已上线，欢迎使用！</div><div>本插件是一个开源项目，您的支持是我开发的动力，期待5星好评！</div>去商店评价→ <a target='_Blank' href='https://chrome.google.com/webstore/detail/dhdelcemeednchdmijiocipbjlknndff'>chrome商店</a>&nbsp;&nbsp;&nbsp;&nbsp;<a target='_Blank' href='https://microsoftedge.microsoft.com/addons/detail/kophadiajpobbfoobhclbobddkoindoi'>Microsoft Edge商店</a>&nbsp;&nbsp;&nbsp;&nbsp;<a target='_Blank' href='https://addons.mozilla.org/zh-CN/firefox/addon/funds/'>Firefox商店</a>",
     "list": [{
             "version": "3.0.3",
             "type": 1,
